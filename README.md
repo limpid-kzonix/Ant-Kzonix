@@ -1,5 +1,4 @@
 
-![](Art/logo.png)
 
 ![](Art/Bloody.png)
 
